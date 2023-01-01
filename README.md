@@ -7,3 +7,6 @@ Projeto no Github para criar um Esphome para leitura dos  valores de tensão, co
 
 [Software para PC](https://www.mediafire.com/folder/m09i9bjv8703d/DL24-DL24P#ehb6a9elgztxq)
 
+## Fork do projeto do Esphome no Github
+[Clique aqui](https://github.com/edilsoncorrea/esphome-atorch-dl24)
+
