@@ -5,3 +5,5 @@
 
 Projeto no Github para criar um Esphome para leitura dos  valores de tensão, corrente, Watts e afins [Clique Aqui](https://github.com/syssi/esphome-atorch-dl24)
 
+[Software para PC](https://www.mediafire.com/folder/m09i9bjv8703d/DL24-DL24P#ehb6a9elgztxq)
+
